@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
-  
+  <title>模仿</title>
+  <subtitle>尝试</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2017-05-09T15:46:20.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="jiapingjiang.github.io/"/>
+  <updated>2017-05-10T15:38:46.000Z</updated>
+  <id>jiapingjiang.github.io/</id>
   
   <author>
     <name>Jiaping Jiang</name>
@@ -16,9 +16,23 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>haha</title>
+    <link href="jiapingjiang.github.io/2017/05/10/haha/"/>
+    <id>jiapingjiang.github.io/2017/05/10/haha/</id>
+    <published>2017-05-10T15:38:45.000Z</published>
+    <updated>2017-05-10T15:38:46.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>title</title>
-    <link href="http://yoursite.com/2017/05/09/title/"/>
-    <id>http://yoursite.com/2017/05/09/title/</id>
+    <link href="jiapingjiang.github.io/2017/05/09/title/"/>
+    <id>jiapingjiang.github.io/2017/05/09/title/</id>
     <published>2017-05-09T15:46:18.000Z</published>
     <updated>2017-05-09T15:46:20.000Z</updated>
     
@@ -31,8 +45,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/05/09/hello-world/"/>
-    <id>http://yoursite.com/2017/05/09/hello-world/</id>
+    <link href="jiapingjiang.github.io/2017/05/09/hello-world/"/>
+    <id>jiapingjiang.github.io/2017/05/09/hello-world/</id>
     <published>2017-05-09T15:20:19.910Z</published>
     <updated>2017-05-09T15:20:20.000Z</updated>
     
